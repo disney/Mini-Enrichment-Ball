@@ -19,3 +19,5 @@ The PDF "AAZK Workshop.pdf" contains the assembly instructions for the mini enri
 ## Contributions
 If you wish to update any files and contribute to this project, please branch off main, create a pull request and email Andy.Milluzzi@disney.com and Angela.Miller@disney.com.
 
+## License
+This project is released under the TOMORROW OPEN SOURCE TECHNOLOGY LICENSE 1.0. Please see the license file for more details.
